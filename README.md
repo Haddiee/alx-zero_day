@@ -1,2 +1,2 @@
 My second readme
-beginner prog
+beginner programmer
